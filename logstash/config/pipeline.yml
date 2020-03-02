@@ -1,0 +1,2 @@
+- pipeline.id: osp_client
+  path.config: "../pipeline/osp_client.conf"
